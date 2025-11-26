@@ -13,9 +13,6 @@ let hamza = "this is let variable";
 console.log(hamza);
 
 
-const pi = 3.14;
-console.log(pi);
-
 console.log("Hello, World!");
 
 
@@ -23,6 +20,17 @@ console.log("Hello, World!");
 // declarations and initializations
 
 
-
 var alishah;   // decleare karna 
 var alishah = "hello";  // declare or initialize karna 
+
+
+// var example 
+
+var a = 10;
+var a = 20;  // re-declaration is allowed
+
+
+
+// const example
+const pi = 3.14;
+console.log(pi);
